@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "ID": 1,
+      "ImageURL": "assets/images/img_1.jpg",
+      "Name": "Acer Nitro V ANV15-41",
+      "Description": "Acer Nitro V ANV15-41, AMD Ryzen 7 7735HS Игровой ноутбук 15.6\", AMD Ryzen 7 7735HS, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 (6 Гб), Без системы, (NH.QSHER.002), черный, Русская раскладка",
+      "Price": 81697
+    },
+    {
+      "ID": 2,
+      "ImageURL": "assets/images/img_2.jpg",
+      "Name": "Lenovo LOQ 15IAX9",
+      "Description": "Lenovo LOQ 15IAX9 Игровой ноутбук 15.6\", Intel Core i5-12450HX, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4050 для ноутбуков (6 Гб), Без системы, (83GS00EPRK), серебристый, Русская раскладка.",
+      "Price": 84540
+    },
+    {
+      "ID": 3,
+      "ImageURL": "assets/images/img_3.jpg",
+      "Name": "Lenovo Legion 5 16IRX9",
+      "Description": "Резервная форма команды ПФК ЦСКА на сезон 2024/25",
+      "Price": 151990
+    },
+    {
+      "ID": 4,
+      "ImageURL": "assets/images/img_4.jpg",
+      "Name": "Lenovo LOQ 15IRX9",
+      "Description": "Lenovo LOQ 15IRX9 Игровой ноутбук 15.6\", Intel Core i7-13650HX, RAM 16 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Без системы, (83DV00NJRK), серый, Русская раскладка",
+      "Price": 104490
+    },
+    {
+      "ID": 5,
+      "ImageURL": "assets/images/img_5.jpg",
+      "Name": "Ninkear Super G16 Pro",
+      "Description": "Ninkear Super G16 Pro Игровой ноутбук 16\", Intel Core i9-10885H, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce GTX 1650 Ti (4 Гб), Windows Pro, серый металлик, Русская раскладка",
+      "Price": 77732
+    },
+    {
+      "ID": 6,
+      "ImageURL": "assets/images/img_6.jpg",
+      "Name": "VETAS 2024",
+      "Description": "VETAS 2024 Новое Последний выпуск Windows была активирована Игровой ноутбук 15.6\", Intel Celeron N5095, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics 750, Windows Pro, (N5905), серебристый, Русская раскладка.",
+      "Price": 21473
+    },
+    {
+      "ID": 7,
+      "ImageURL": "assets/images/img_7.jpg",
+      "Name": "N4000",
+      "Description": "N4000 Игровой ноутбук 15\", Intel Celeron N4000C, RAM 16 ГБ, SSD, Windows Pro, (M66-1), черно-серый, прозрачный, Русская раскладка",
+      "Price": 16504
+    }
+  ]
+}
