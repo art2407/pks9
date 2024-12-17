@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:cskashop/pages/home_page.dart';
-import 'package:cskashop/pages/favorites_page.dart';
-import 'package:cskashop/pages/cart_page.dart';
-import 'package:cskashop/pages/profile_page.dart';
-import 'package:cskashop/logic/favorites_provider.dart';
+import '../pages/home_page.dart';
+import '../pages/favorites_page.dart';
+import '../pages/cart_page.dart';
+import '../pages/profile_page.dart';
+import '../logic/favorites_provider.dart';
 import 'package:provider/provider.dart';
-import 'package:cskashop/logic/cart_provider.dart';
-import 'package:cskashop/logic/products_provider.dart';
+import '../logic/cart_provider.dart';
+import '../logic/products_provider.dart';
 
 void main() {
   runApp(
